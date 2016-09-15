@@ -34,7 +34,6 @@
 
                         this.createObserver();
                         this.executeExistingAlerts();
-                        this.createAlert(['Test alert'], 'test');
                     },
                     /**
                      * Create an alert with a set of messages and any extra classes that need to be added onto it.
